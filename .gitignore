@@ -217,5 +217,10 @@ pyrightconfig.json
 # Ignore all local history of files
 .history
 .ionide
-
+/notebook
+/API
+todas_lojas_ruateresa.xlsx
+/notebook/ruateresa.py
+/notebook/ruateresa.py
+/notebook/todas_lojas_ruateresa.sql
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,python,jupyternotebooks

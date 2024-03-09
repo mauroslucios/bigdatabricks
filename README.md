@@ -14,4 +14,11 @@
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=CC0000&logo=instagram&logoColor=white)](https://www.instagram.com/re.bviana/)
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red)](mailto:rborgesviana@gmail.com)
 
-
+### Links contendo datasets para análises
+- https://www.kaggle.com/datasets
+- https://portaldatransparencia.gov.br/
+- https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
+- https://github.com/fivethirtyeight/data/tree/master/star-wars-survey
+- https://github.com/fivethirtyeight/data/blob/master/trump-twitter/realDonaldTrump_poll_tweets.csv
+- https://github.com/BuzzFeedNews/zika-data
+- https://dumps.wikimedia.org/
