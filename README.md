@@ -41,7 +41,7 @@ Congratulations, you have installed Jupyter Notebook. To run the notebbok:
 ### See Running the Notebook for more details.
 
 #### Alternative for experienced Python users: Installing Jupyter with pip
-<h1 style="color:red">Importante</h1>
+<h1 style="color:red;">Importante</h1>
 Jupyter installation requires Python 3.3 or greater, or Python 2.7.IPython 1.x, which included ther parts that later became Jupyter, was the last version to support Python 3.2 and 2.6.
 As an existing Python user, you may wish to install Python using Python's package manager, pip, instead of Anaconda. First, ensure that you have the latest pip, older versions may have trouble with some dependencies.
 
