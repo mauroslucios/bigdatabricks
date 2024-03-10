@@ -15,13 +15,13 @@
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red)](mailto:rborgesviana@gmail.com)
 
 #### Links contendo datasets para análises
-- https://www.kaggle.com/datasets
-- https://portaldatransparencia.gov.br/
-- https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
-- https://github.com/fivethirtyeight/data/tree/master/star-wars-survey
-- https://github.com/fivethirtyeight/data/blob/master/trump-twitter/realDonaldTrump_poll_tweets.csv
-- https://github.com/BuzzFeedNews/zika-data
-- https://dumps.wikimedia.org/
+1. https://www.kaggle.com/datasets
+2. https://portaldatransparencia.gov.br/
+3. https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
+4. https://github.com/fivethirtyeight/data/tree/master/star-wars-survey
+5. https://github.com/fivethirtyeight/data/blob/master/trump-twitter/realDonaldTrump_poll_tweets.csv
+6. https://github.com/BuzzFeedNews/zika-data
+7. https://dumps.wikimedia.org/
 
 #### Installing the classic Jupyter Notebook interface
 - Prerequisite:Python
